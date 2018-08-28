@@ -1,0 +1,17 @@
+| Backend     | Text                               | File Size | Elasped Time  |
+|-------------|------------------------------------|-----------|---------------|
+|UNSORTED     |Beowulf                             |       295K|     10.33265 s|
+|UNSORTED     |Alice's Adventures in Wonderland    |       170K|     2.779448 s|
+|UNSORTED     |The Jungle Book                     |       298K|     8.119917 s|
+|SORTED       |Beowulf                             |       295K|     176.4450 s|
+|SORTED       |Alice's Adventures in Wonderland    |       170K|     39.72980 s|
+|SORTED       |The Jungle Book                     |       298K|     111.4508 s|
+|BST          |Beowulf                             |       295K|     0.207098 s|
+|BST          |Alice's Adventures in Wonderland    |       170K|     0.122095 s|
+|BST          |The Jungle Book                     |       298K|     0.214552 s|
+|RBTREE       |Beowulf                             |       295K|     0.205374 s|
+|RBTREE       |Alice's Adventures in Wonderland    |       170K|     0.116393 s|
+|RBTREE       |The Jungle Book                     |       298K|     0.214689 s|
+|TREAP        |Beowulf                             |       295K|     0.328623 s|
+|TREAP        |Alice's Adventures in Wonderland    |       170K|     0.241706 s|
+|TREAP        |The Jungle Book                     |       298K|     0.313206 s|
